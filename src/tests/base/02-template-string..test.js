@@ -22,7 +22,7 @@ describe('Pruebas en 02-template-string.js', () =>{
         const saludo2 = getSaludo();
         
         //Assert
-        expect(saludo).toBe('HolaCristian')       
+        expect(saludo2).toBe('HolaCristian')       
 
     })
 
